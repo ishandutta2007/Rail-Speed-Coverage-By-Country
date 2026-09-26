@@ -1,0 +1,20 @@
+[
+  {
+    "country_region": "India 🇮🇳",
+    "slow_trains": "**99.93%** <br>*(~68,000+ km conventional track)*",
+    "medium_speed": "**0.07%** <br>*(~82 km operational Delhi-Meerut RRTS)*",
+    "bullet_trains": "**0.00%** <br>*(0 km operational; Mumbai-Ahmedabad under construction)*"
+  },
+  {
+    "country_region": "Europe (EU) 🇪🇺",
+    "slow_trains": "**88.00%** <br>*(~180,000 km standard local & freight lines)*",
+    "medium_speed": "**5.00%** <br>*(~10,000 km Regional Express/InterCity lines)*",
+    "bullet_trains": "**7.00%** <br>*(~15,000+ km dedicated TGV/AVE lines)*"
+  },
+  {
+    "country_region": "China 🇨🇳",
+    "slow_trains": "**69.00%** <br>*(~110,000 km conventional freight & sleeper lines)*",
+    "medium_speed": "**4.00%** <br>*(~6,000+ km \"D-class\" regional/intercity lines)*",
+    "bullet_trains": "**27.00%** <br>*(~48,000+ km dedicated \"G-class\" tracks)*"
+  }
+]
