@@ -24,11 +24,17 @@ A comparative breakdown of the rail network distribution across **India 🇮🇳
 
 The table below shows the percentage share based on total operating rail network sizes:
 
+<!-- DATA_TABLES_START -->
+
+### 📅 2024 Rail Network Distribution
+
 | Country/Region | 🚂 Slow Trains <br>*(Local/Commuter/Conventional)* | 🚆 RRTS / Regional Express <br>*(Medium-Speed: 140–200 km/h)* | 🚄 Bullet Trains / High-Speed Rail <br>*(Dedicated: 250–350+ km/h)* |
 | :--- | :---: | :---: | :---: |
-| **India 🇮🇳** | **99.93%** <br>*(~68,000+ km conventional track)* | **0.07%** <br>*(~82 km operational Delhi-Meerut RRTS)* | **0.00%** <br>*(0 km operational; Mumbai-Ahmedabad under construction)* |
-| **Europe (EU) 🇪🇺** | **88.00%** <br>*(~180,000 km standard local & freight lines)* | **5.00%** <br>*(~10,000 km Regional Express/InterCity lines)* | **7.00%** <br>*(~15,000+ km dedicated TGV/AVE lines)* |
-| **China 🇨🇳** | **69.00%** <br>*(~110,000 km conventional freight & sleeper lines)* | **4.00%** <br>*(~6,000+ km "D-class" regional/intercity lines)* | **27.00%** <br>*(~48,000+ km dedicated "G-class" tracks)* |
+| India 🇮🇳 | **99.93%** <br>*(~68,000+ km conventional track)* | **0.07%** <br>*(~82 km operational Delhi-Meerut RRTS)* | **0.00%** <br>*(0 km operational; Mumbai-Ahmedabad under construction)* |
+| Europe (EU) 🇪🇺 | **88.00%** <br>*(~180,000 km standard local & freight lines)* | **5.00%** <br>*(~10,000 km Regional Express/InterCity lines)* | **7.00%** <br>*(~15,000+ km dedicated TGV/AVE lines)* |
+| China 🇨🇳 | **69.00%** <br>*(~110,000 km conventional freight & sleeper lines)* | **4.00%** <br>*(~6,000+ km "D-class" regional/intercity lines)* | **27.00%** <br>*(~48,000+ km dedicated "G-class" tracks)* |
+
+<!-- DATA_TABLES_END -->
 
 ---
 
