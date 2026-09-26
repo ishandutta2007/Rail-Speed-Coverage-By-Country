@@ -46,6 +46,44 @@ The table below shows the percentage share based on total operating rail network
 
 ---
 
+## 🛠️ Developer's Guide
+
+### 📂 Data Structure & Adding New Data
+
+All yearly data is stored as JSON files inside the [`data/`](file:///C:/Users/ishan/Documents/Projects/Rail-Speed-Coverage-By-Country/data) directory (e.g. `data/2024.json`, `data/2025.json`).
+
+To add data for a new year:
+1. Create a new JSON file named `<year>.json` in the `data/` directory.
+2. Follow this structure:
+   ```json
+   [
+     {
+       "country_region": "India 🇮🇳",
+       "slow_trains": "**99.93%** <br>*(~68,000+ km conventional track)*",
+       "medium_speed": "**0.07%** <br>*(~82 km operational Delhi-Meerut RRTS)*",
+       "bullet_trains": "**0.00%** <br>*(0 km operational; Mumbai-Ahmedabad under construction)*"
+     }
+   ]
+   ```
+
+### ⚙️ Updating the README Tables Automatically
+
+You can regenerate the tables in `README.md` using either Node.js or Python scripts:
+
+**Using Node.js:**
+```bash
+node update_readme.js
+```
+
+**Using Python:**
+```bash
+python update_readme.py
+```
+
+The scripts automatically detect all `.json` files in the `data/` directory, format markdown tables chronologically, and populate the content between `<!-- DATA_TABLES_START -->` and `<!-- DATA_TABLES_END -->` markers in `README.md`.
+
+---
+
 ## 💖 Support & Contributions
 
 Thank you for checking out this dataset and comparison! 🌟
